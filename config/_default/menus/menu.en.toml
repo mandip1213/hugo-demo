@@ -48,7 +48,6 @@
   weight = 4
   url = "index.xml"
 
-largeTwitterCard=true 
 # other supported social links
 # name = "youtube"
 # url = "https://www.youtube.com/#"
